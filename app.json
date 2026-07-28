@@ -1,0 +1,43 @@
+{
+  "apps": [
+    {
+      "id": "templestamilnadu",
+      "name": "Tamilnadu Temples",
+      "description": {
+        "en": "Discover and explore beautiful temples across Tamil Nadu with detailed information, photos, and directions.",
+        "ta": "தமிழ்நாடு முழுவதும் உள்ள அழகிய கோவில்களை விரிவான தகவல்கள், புகைப்படங்கள் மற்றும் வழிகாட்டுதல்களுடன் கண்டறியுங்கள்."
+      },
+      "iconUrl": "https://saimobileapps.in/images/tamilnadutemples/tamilnadu_temples_logo.webp",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.saimobileapps.templestamilnadu",
+      "appStoreUrl": "https://apps.apple.com/ca/app/tamilnadu-temples/id6762501561",
+      "active": true,
+      "order": 1
+    },
+    {
+      "id": "expentrace",
+      "name": "ExpenTrace",
+      "description": {
+        "en": "Track your expenses effortlessly with ExpenTrace. Manage your budget, analyze spending patterns, and achieve your financial goals.",
+        "fr": "Suivez vos dépenses sans effort avec ExpenTrace. Gérez votre budget, analysez vos habitudes de dépenses et atteignez vos objectifs financiers."
+      },
+      "iconUrl": "https://saimobileapps.in/images/expentrace/expen_trace_logo.png",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.saimobileapps.expentrace",
+      "appStoreUrl": "https://apps.apple.com/ca/app/expentrace-expense-tracker/id6758075522",
+      "active": true,
+      "order": 2
+    },
+    {
+      "id": "nutritrace",
+      "name": "NutriTrace",
+      "description": {
+        "en": "Scan nutrition labels, track your daily macros, and sync workouts with Apple Health or Google Health Connect.",
+        "fr": "Scannez les étiquettes nutritionnelles, suivez vos macros quotidiens et synchronisez vos entraînements avec Apple Health ou Google Health Connect."
+      },
+      "iconUrl": "https://saimobileapps.in/images/nutritrace/nutritrace_logo.png",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.saimobileapps.nutritrace",
+      "appStoreUrl": "https://apps.apple.com/us/app/nutritrace/id6784749553",
+      "active": true,
+      "order": 3
+    }
+  ]
+}
