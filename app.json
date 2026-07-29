@@ -11,7 +11,8 @@
       "playStoreUrl": "https://play.google.com/store/apps/details?id=com.saimobileapps.templestamilnadu",
       "appStoreUrl": "https://apps.apple.com/ca/app/tamilnadu-temples/id6762501561",
       "active": true,
-      "order": 1
+      "order": 1,
+      "hiddenFor": ["expentrace", "nutritrace"]
     },
     {
       "id": "expentrace",
